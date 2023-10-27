@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Static Web App</h1>
+        <h1>Welcome to ATU </h1>
     </header>
     <nav>
         <ul>
