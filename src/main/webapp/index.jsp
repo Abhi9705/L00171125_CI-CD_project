@@ -19,7 +19,7 @@
     <main>
         <section>
             <h2>About Us</h2>
-            <p>This is a simple static web application.</p>
+            <p>L00171125.</p>
         </section>
         <section>
             <h2>Contact Us</h2>
