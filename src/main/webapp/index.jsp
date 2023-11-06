@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>My Static Web App</title>
+    <title>My Static Web application</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Welcome to My Static Web App</h1>
+        <h1>Welcome to My Static Web Apap</h1>
     </header>
     <nav>
         <ul>
