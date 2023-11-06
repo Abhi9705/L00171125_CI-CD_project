@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>My Static Web application</title>
+    <title>My Static Web App</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Welcome to My Static Web Apap</h1>
+        <h1>Welcome to My Static Web App</h1>
     </header>
     <nav>
         <ul>
@@ -19,7 +19,7 @@
     <main>
         <section>
             <h2>About Us</h2>
-            <p>This is a simple static web application.</p>
+            <p>L00171125 my.</p>
         </section>
         <section>
             <h2>Contact Us</h2>

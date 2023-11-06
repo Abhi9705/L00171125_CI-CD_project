@@ -1,0 +1,11 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Hello') {
+            steps {
+               git branch: 'main', credentialsId: '44b0e128-9638-46e3-9cbc-c6011e5d8731', url: 'https://github.com/Abhi9705/L00171125_CI-CD_project.git'
+            }
+        }
+    }
+}
