@@ -19,7 +19,7 @@
     <main>
         <section>
             <h2>About Us</h2>
-            <p>L00171125 my.</p>
+            <p>L00171125 my number</p>
         </section>
         <section>
             <h2>Contact Us</h2>
